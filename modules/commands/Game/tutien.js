@@ -1,7 +1,7 @@
 const fs   = require('fs-extra');
 const path = require('path');
 
-const DATA_PATH = path.join(process.cwd(), 'modules', 'commands', 'data', 'tutien.json');
+const DATA_PATH = path.join(process.cwd(), 'modules', 'commands', 'game', 'data', 'tutien.json');
 
 // Đọc / ghi file JSON
 function readData() {
