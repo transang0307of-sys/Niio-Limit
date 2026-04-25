@@ -3,18 +3,18 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " DKCUTE ",
+    "AMDIN_NAME": "ANKLADKHANG",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/profile.php?id=61573370773875",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "61573370773875",
         ""
     ],
     "NDH": [
-        "",
+        "61573370773875",
         ""
     ],
     "autoCleanCache": {
